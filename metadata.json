@@ -1,0 +1,5 @@
+{
+  "name": "DFS Fault Tolerance Sim",
+  "description": "A visual simulator for a Distributed File System demonstrating data replication, node failure handling, and fault tolerance.",
+  "requestFramePermissions": []
+}
